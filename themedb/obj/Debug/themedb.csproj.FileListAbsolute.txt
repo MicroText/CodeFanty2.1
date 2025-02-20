@@ -1,0 +1,12 @@
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET4\themedb\bin\Debug\themedb.dll
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET4\themedb\bin\Debug\themedb.pdb
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET4\themedb\obj\Debug\themedb.csproj.AssemblyReference.cache
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET4\themedb\obj\Debug\themedb.csproj.CoreCompileInputs.cache
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET4\themedb\obj\Debug\themedb.dll
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET4\themedb\obj\Debug\themedb.pdb
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\themedb\bin\Debug\themedb.dll
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\themedb\bin\Debug\themedb.pdb
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\themedb\obj\Debug\themedb.csproj.AssemblyReference.cache
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\themedb\obj\Debug\themedb.csproj.CoreCompileInputs.cache
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\themedb\obj\Debug\themedb.dll
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\themedb\obj\Debug\themedb.pdb

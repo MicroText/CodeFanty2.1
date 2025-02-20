@@ -1,0 +1,23 @@
+﻿/*
+ * %%DATE%%
+ * MicroText
+ * mfx
+ * YourNameSpace
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace YourNameSpace
+{
+	class YourClass
+	{
+		public static void Main(string[] args)
+		{
+
+		}
+	}
+}

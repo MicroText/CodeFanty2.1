@@ -1,0 +1,9 @@
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\high_lighting\bin\Debug\high_lighting.dll
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\high_lighting\bin\Debug\high_lighting.pdb
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\high_lighting\bin\Debug\themedb.dll
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\high_lighting\bin\Debug\themedb.pdb
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\high_lighting\obj\Debug\filetype.csproj.AssemblyReference.cache
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\high_lighting\obj\Debug\filetype.csproj.CoreCompileInputs.cache
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\high_lighting\obj\Debug\filetype.csproj.CopyComplete
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\high_lighting\obj\Debug\high_lighting.dll
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\high_lighting\obj\Debug\high_lighting.pdb

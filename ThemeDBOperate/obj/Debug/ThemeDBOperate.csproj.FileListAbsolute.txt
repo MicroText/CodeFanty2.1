@@ -1,0 +1,10 @@
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\bin\Debug\ThemeDBOperate.exe.config
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\bin\Debug\ThemeDBOperate.exe
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\bin\Debug\ThemeDBOperate.pdb
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\bin\Debug\themedb.dll
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\bin\Debug\themedb.pdb
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\obj\Debug\ThemeDBOperate.csproj.AssemblyReference.cache
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\obj\Debug\ThemeDBOperate.csproj.CoreCompileInputs.cache
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\obj\Debug\ThemeDBOperate.csproj.CopyComplete
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\obj\Debug\ThemeDBOperate.exe
+C:\Users\mengf\source\repos\MicroText CodeFanty 2.0 For .NET8\ThemeDBOperate\obj\Debug\ThemeDBOperate.pdb
