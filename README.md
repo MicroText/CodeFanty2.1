@@ -1,2 +1,3 @@
-# MicroText_CodeFanty_2.0
- An program to write codes
+# MicroText CodeFanty 2.1
+
+当我们编写汇编语言程序时，由于VSCode等代码编辑工具对该语言的较低适配能力，因此，作者自制了一款对汇编语言适配较好的工具：`CodeFanty`。2.1版本将会随着《翱翔极客志·操作系统原理与实践》期刊而推广，作为本书的配套工具而使用。
